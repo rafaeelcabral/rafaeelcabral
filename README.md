@@ -3,10 +3,10 @@
 ##
 
 <a href="https://github.com/rafaeelcabral/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeelcabral&theme=radical&rank_icon=github&show_icons=true&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaeelcabral&theme=radical&rank_icon=github&show_icons=true&card_width=250" />
 </a>
 <a href="https://github.com/rafaeelcabral/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeelcabral&layout=compact&langs_count=8&card_width=300&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaeelcabral&layout=compact&langs_count=8&card_width=250&theme=radical" />
 </a>
 
 ##
