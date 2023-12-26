@@ -28,4 +28,4 @@
 
 ##
 
-![Snake animation](https://github.com/rafaeelcabral/rafaeelcabral/blob/output/github-contribution--grid-snake.svg)
+![Snake animation](https://github.com/rafaeelcabral/rafaeelcabral/blob/output/github-contribution-grid-snake.svg)
